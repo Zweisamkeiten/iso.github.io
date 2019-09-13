@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F09%2F13%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>博客搭建</category>
+      </categories>
+      <tags>
+        <tag>博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[江湖再见]]></title>
     <url>%2F2019%2F09%2F10%2F%E6%B1%9F%E6%B9%96%E5%86%8D%E8%A7%81%2F</url>
     <content type="text"><![CDATA[军训结束在一天前，有些后悔没在当日就将所感记录，现今原有的复杂心情被忙碌冲淡，再想写些什么却抓不住当时的感觉。我是真的想要把记忆留下来，能够让我回忆，可现在也有些怀疑这些情感不会再一次被真切感受。 短短几天军训，作为与新的陌生环境的衔接，在这又一个成长阶段又教会了我些事。我本着以军训来矫正自己的体态的目的而来。我其实只是想能自信点，这样也就不会成为我眼中不喜欢的那种人。我抱着这样的心态尽量的做到教官的要求。教官的认同，是我得到的最意外的收获。那时的画面我还清楚记得，营长走到我面前说，“擦擦汗”。随后是连长的一通夸奖，“军训的目的是教会你们坚持与忍耐”竟让我出列，成为了所谓标兵。这让我之前的某些观念发生了变化，我也没认为自己做的是最好，又加上我不说话，存在感应该是低的可怜，可为什么因为汗水让不显眼的我得到了肯定呢？当晚我有些兴奋地睡不着觉，一方面是内心觉得名不副实的心虚，另一方面是得到肯定的欣喜。这欣喜是我少有的体验。 刚开始我单纯的以为原来汗水真的能让人得到他人的肯定，相信我的付出，后来的日子让我慢慢发现这是因为我遇上了一群可爱的人。军旅生活没有消磨他们对生活的热爱，他们也有对周围事物观察的耐心。即使为生活忙碌，但他们展现给别人的的确是乐观。我能挖掘出连长话语中对生活前景的无奈，但他给我们的欢笑却是最多的。我才发现这才是一个人对生活应该有的态度，没有一丝的强迫，发自内心。]]></content>
@@ -20,17 +31,6 @@
       </categories>
       <tags>
         <tag>乱乱记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F07%2F30%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-      <categories>
-        <category>博客搭建</category>
-      </categories>
-      <tags>
-        <tag>博客搭建</tag>
       </tags>
   </entry>
 </search>
